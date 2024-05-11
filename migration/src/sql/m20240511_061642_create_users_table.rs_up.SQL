@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `Users` ( `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY, `username` varchar(255) NOT NULL, `account` varchar(255) NOT NULL UNIQUE, `email` varchar(255) NOT NULL UNIQUE, `password` varchar(255) NOT NULL, `register_time` datetime NOT NULL )

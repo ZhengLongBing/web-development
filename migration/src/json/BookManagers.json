@@ -1,0 +1,502 @@
+[
+  {
+    "id": 101,
+    "book_id": 209,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 102,
+    "book_id": 142,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 103,
+    "book_id": 221,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 104,
+    "book_id": 165,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 105,
+    "book_id": 145,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 106,
+    "book_id": 184,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 107,
+    "book_id": 213,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 108,
+    "book_id": 164,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 109,
+    "book_id": 163,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 110,
+    "book_id": 171,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 111,
+    "book_id": 212,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 112,
+    "book_id": 182,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 113,
+    "book_id": 144,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 114,
+    "book_id": 144,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 115,
+    "book_id": 180,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 116,
+    "book_id": 164,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 117,
+    "book_id": 205,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 118,
+    "book_id": 135,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 119,
+    "book_id": 186,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 120,
+    "book_id": 183,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 121,
+    "book_id": 177,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 122,
+    "book_id": 197,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 123,
+    "book_id": 176,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 124,
+    "book_id": 223,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 125,
+    "book_id": 186,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 126,
+    "book_id": 191,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 127,
+    "book_id": 186,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 128,
+    "book_id": 133,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 129,
+    "book_id": 207,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 130,
+    "book_id": 160,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 131,
+    "book_id": 228,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 132,
+    "book_id": 195,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 133,
+    "book_id": 158,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 134,
+    "book_id": 189,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 135,
+    "book_id": 212,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 136,
+    "book_id": 161,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 137,
+    "book_id": 215,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 138,
+    "book_id": 137,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 139,
+    "book_id": 150,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 140,
+    "book_id": 142,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 141,
+    "book_id": 223,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 142,
+    "book_id": 198,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 143,
+    "book_id": 162,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 144,
+    "book_id": 204,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 145,
+    "book_id": 167,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 146,
+    "book_id": 159,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 147,
+    "book_id": 170,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 148,
+    "book_id": 156,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 149,
+    "book_id": 176,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 150,
+    "book_id": 194,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 151,
+    "book_id": 158,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 152,
+    "book_id": 172,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 153,
+    "book_id": 139,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 154,
+    "book_id": 195,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 155,
+    "book_id": 189,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 156,
+    "book_id": 211,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 157,
+    "book_id": 133,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 158,
+    "book_id": 167,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 159,
+    "book_id": 170,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 160,
+    "book_id": 204,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 161,
+    "book_id": 230,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 162,
+    "book_id": 166,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 163,
+    "book_id": 136,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 164,
+    "book_id": 191,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 165,
+    "book_id": 191,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 166,
+    "book_id": 195,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 167,
+    "book_id": 201,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 168,
+    "book_id": 145,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 169,
+    "book_id": 136,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 170,
+    "book_id": 167,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 171,
+    "book_id": 147,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 172,
+    "book_id": 189,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 173,
+    "book_id": 183,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 174,
+    "book_id": 202,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 175,
+    "book_id": 156,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 176,
+    "book_id": 140,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 177,
+    "book_id": 133,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 178,
+    "book_id": 139,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 179,
+    "book_id": 182,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 180,
+    "book_id": 137,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 181,
+    "book_id": 205,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 182,
+    "book_id": 152,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 183,
+    "book_id": 176,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 184,
+    "book_id": 218,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 185,
+    "book_id": 136,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 186,
+    "book_id": 185,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 187,
+    "book_id": 168,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 188,
+    "book_id": 144,
+    "book_status": "MAINTENANCE"
+  },
+  {
+    "id": 189,
+    "book_id": 202,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 190,
+    "book_id": 224,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 191,
+    "book_id": 175,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 192,
+    "book_id": 223,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 193,
+    "book_id": 225,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 194,
+    "book_id": 169,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 195,
+    "book_id": 153,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 196,
+    "book_id": 197,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 197,
+    "book_id": 155,
+    "book_status": "BORROWED"
+  },
+  {
+    "id": 198,
+    "book_id": 209,
+    "book_status": "AVAILABLE"
+  },
+  {
+    "id": 199,
+    "book_id": 183,
+    "book_status": "ON_HOLD"
+  },
+  {
+    "id": 200,
+    "book_id": 209,
+    "book_status": "AVAILABLE"
+  }
+]

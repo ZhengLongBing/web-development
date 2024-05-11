@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `Books` ( `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY, `title` varchar(255) NOT NULL, `isbn` varchar(255) NOT NULL, `author` varchar(255), `category` varchar(255), `on_shelf_time` date NOT NULL, `price` decimal(10, 2) NOT NULL )

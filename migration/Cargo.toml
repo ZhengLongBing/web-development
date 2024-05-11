@@ -1,0 +1,25 @@
+[package]
+name = "migration"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[lib]
+name = "migration"
+path = "src/lib.rs"
+
+[dependencies]
+dotenv = "0.15.0"
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+sea-orm = { workspace = true }
+common = { path = "../common" }
+api = { path = "../api" }
+db = { path = "../db" }
+[dependencies.sea-orm-migration]
+version = "0.12.15"
+features = [
+  "runtime-tokio-rustls",  # `ASYNC_RUNTIME` feature
+  "sqlx-mysql",         # `DATABASE_DRIVER` feature
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": 131,
+    "title": "Prof.",
+    "isbn": "IBXY2as8ZX",
+    "author": "TsjHz0HpRU",
+    "category": "I7T3Q3ORM8",
+    "on_shelf_time": "2000-1-10",
+    "price": 714.4099731445313
+  },
+  {
+    "id": 132,
+    "title": "Miss.",
+    "isbn": "WywNRvB9XT",
+    "author": "nEWtVZEsc5",
+    "category": "eNPadGE6P1",
+    "on_shelf_time": "2003-4-7",
+    "price": 401.92999267578127
+  },
+  {
+    "id": 133,
+    "title": "Prof.",
+    "isbn": "2P1ueJGyp0",
+    "author": "MoacJv2hou",
+    "category": "qV0rf6llDz",
+    "on_shelf_time": "2019-8-31",
+    "price": 249.27999877929688
+  },
+  {
+    "id": 134,
+    "title": "Prof.",
+    "isbn": "ZQAk1O2E2e",
+    "author": "MXFoQqls4T",
+    "category": "nwndfR2AJE",
+    "on_shelf_time": "2017-8-1",
+    "price": 786.1400146484375
+  },
+  {
+    "id": 135,
+    "title": "Miss.",
+    "isbn": "7KAvrCrQYV",
+    "author": "pIv8W2enlA",
+    "category": "WHuxS75e5F",
+    "on_shelf_time": "2013-5-2",
+    "price": 504.739990234375
+  },
+  {
+    "id": 136,
+    "title": "Prof.",
+    "isbn": "56UY3hUCOj",
+    "author": "NCXJ4DxwUb",
+    "category": "rSq39R5n2u",
+    "on_shelf_time": "2003-5-5",
+    "price": 570.6900024414063
+  },
+  {
+    "id": 137,
+    "title": "Mrs.",
+    "isbn": "XB6V6SawZm",
+    "author": "oNUJn4BrsG",
+    "category": "S6y6eTXB0O",
+    "on_shelf_time": "2004-11-6",
+    "price": 390.1700134277344
+  },
+  {
+    "id": 138,
+    "title": "Ms.",
+    "isbn": "1tpiJhkZoe",
+    "author": "e2bpwYAXR9",
+    "category": "nyhai5TQAi",
+    "on_shelf_time": "2008-1-9",
+    "price": 883.7999877929688
+  },
+  {
+    "id": 139,
+    "title": "Ms.",
+    "isbn": "VFuDpMZI63",
+    "author": "zDn3my4Dh1",
+    "category": "GlTpJtnZG2",
+    "on_shelf_time": "2019-7-12",
+    "price": 146.22000122070313
+  },
+  {
+    "id": 140,
+    "title": "Mr.",
+    "isbn": "UTQMSfsJz2",
+    "author": "P64g7t0D6v",
+    "category": "p8hb0xsJk5",
+    "on_shelf_time": "2004-5-9",
+    "price": 260.7799987792969
+  },
+  {
+    "id": 141,
+    "title": "Miss.",
+    "isbn": "j0ZCTVRGZb",
+    "author": "hKFT6m0MQt",
+    "category": "f9R0Rqf0G6",
+    "on_shelf_time": "2008-4-3",
+    "price": 790.3599853515625
+  },
+  {
+    "id": 142,
+    "title": "Mrs.",
+    "isbn": "ZLnbobBX8C",
+    "author": "GdIojViMNU",
+    "category": "JsyWubzfrM",
+    "on_shelf_time": "2006-12-28",
+    "price": 441.9800109863281
+  },
+  {
+    "id": 143,
+    "title": "Ms.",
+    "isbn": "gQpFXvhne2",
+    "author": "SSbsprsXdu",
+    "category": "p21rI7kk5F",
+    "on_shelf_time": "2024-4-20",
+    "price": 727.9199829101563
+  },
+  {
+    "id": 144,
+    "title": "Prof.",
+    "isbn": "5Qy6HEkbYZ",
+    "author": "sxJjCkzRp1",
+    "category": "lCJOjCT6yc",
+    "on_shelf_time": "2016-3-8",
+    "price": 154.25
+  },
+  {
+    "id": 145,
+    "title": "Mrs.",
+    "isbn": "m4C91IobzB",
+    "author": "cYNEa0I9IA",
+    "category": "dc9vXP0Imq",
+    "on_shelf_time": "2021-9-22",
+    "price": 522.02001953125
+  },
+  {
+    "id": 146,
+    "title": "Prof.",
+    "isbn": "iNVVNdNA3f",
+    "author": "4rQCtts5fv",
+    "category": "1xvBxlOhun",
+    "on_shelf_time": "2023-4-28",
+    "price": 518.5800170898438
+  },
+  {
+    "id": 147,
+    "title": "Mrs.",
+    "isbn": "UYU3mZeTiJ",
+    "author": "QdEOtCfY2t",
+    "category": "F1eMz9X6OJ",
+    "on_shelf_time": "2007-1-26",
+    "price": 925.8300170898438
+  },
+  {
+    "id": 148,
+    "title": "Prof.",
+    "isbn": "PxyQEgnXNk",
+    "author": "uRKQYZGyo8",
+    "category": "KtjCFPwBZW",
+    "on_shelf_time": "2008-8-26",
+    "price": 461.55999755859377
+  },
+  {
+    "id": 149,
+    "title": "Ms.",
+    "isbn": "eAy1LXSH8d",
+    "author": "13pUXLsWgY",
+    "category": "ozrv3HcWyh",
+    "on_shelf_time": "2008-7-14",
+    "price": 565.0900268554688
+  },
+  {
+    "id": 150,
+    "title": "Miss.",
+    "isbn": "ZfF5mtXUyX",
+    "author": "RknUmKI2pJ",
+    "category": "Uy5smzTdg5",
+    "on_shelf_time": "2005-8-15",
+    "price": 44.5
+  },
+  {
+    "id": 151,
+    "title": "Mrs.",
+    "isbn": "Toy6B7ETK6",
+    "author": "db3fCZt0tN",
+    "category": "uUColNPyrP",
+    "on_shelf_time": "2018-7-14",
+    "price": 685.0
+  },
+  {
+    "id": 152,
+    "title": "Miss.",
+    "isbn": "OAJJkuvSjc",
+    "author": "EUz9v0kCqh",
+    "category": "3zNu3FITlc",
+    "on_shelf_time": "2014-8-12",
+    "price": 129.8699951171875
+  },
+  {
+    "id": 153,
+    "title": "Prof.",
+    "isbn": "Ri1ikM2DnN",
+    "author": "kyfz30o4Zt",
+    "category": "3EFSvnuNVs",
+    "on_shelf_time": "2017-1-9",
+    "price": 270.4800109863281
+  },
+  {
+    "id": 154,
+    "title": "Ms.",
+    "isbn": "XCpQTdMCBy",
+    "author": "e8I5J0PPY7",
+    "category": "Aw2Cs4INXm",
+    "on_shelf_time": "2020-12-2",
+    "price": 250.52999877929688
+  },
+  {
+    "id": 155,
+    "title": "Mrs.",
+    "isbn": "dEHaRXbmV2",
+    "author": "8RrCQE0uHm",
+    "category": "laSazgkgES",
+    "on_shelf_time": "2000-3-21",
+    "price": 924.3200073242188
+  },
+  {
+    "id": 156,
+    "title": "Ms.",
+    "isbn": "pto8mmLeoK",
+    "author": "1087oOBqmN",
+    "category": "ozK1Yuq2HR",
+    "on_shelf_time": "2008-10-31",
+    "price": 411.260009765625
+  },
+  {
+    "id": 157,
+    "title": "Mrs.",
+    "isbn": "5kpaGwZuNk",
+    "author": "8k1N4twl8q",
+    "category": "NBAeIqHj8y",
+    "on_shelf_time": "2019-11-28",
+    "price": 190.22000122070313
+  },
+  {
+    "id": 158,
+    "title": "Mrs.",
+    "isbn": "hQPILYtmNz",
+    "author": "ee9l5n8O79",
+    "category": "pGldihWmju",
+    "on_shelf_time": "2016-10-31",
+    "price": 252.19000244140626
+  },
+  {
+    "id": 159,
+    "title": "Prof.",
+    "isbn": "2P4aphUlZS",
+    "author": "nAbhLk9XTB",
+    "category": "7DB8qfuWsq",
+    "on_shelf_time": "2005-5-1",
+    "price": 934.4000244140625
+  },
+  {
+    "id": 160,
+    "title": "Mr.",
+    "isbn": "j00P98sf41",
+    "author": "RmqVZGzl2V",
+    "category": "Naodg7E4AK",
+    "on_shelf_time": "2008-9-4",
+    "price": 509.6199951171875
+  },
+  {
+    "id": 161,
+    "title": "Ms.",
+    "isbn": "M9VFeD1jdc",
+    "author": "DnjBK0TBGZ",
+    "category": "rUad5EJQaI",
+    "on_shelf_time": "2020-12-22",
+    "price": 816.2100219726563
+  },
+  {
+    "id": 162,
+    "title": "Prof.",
+    "isbn": "OoIQiGJPt5",
+    "author": "RZpAKHNnYu",
+    "category": "2PIFI0Njjm",
+    "on_shelf_time": "2005-12-15",
+    "price": 782.8599853515625
+  },
+  {
+    "id": 163,
+    "title": "Mrs.",
+    "isbn": "jqRheVcNuY",
+    "author": "uS9TB0qxGO",
+    "category": "1QWksaJMQF",
+    "on_shelf_time": "2021-4-25",
+    "price": 14.960000038146973
+  },
+  {
+    "id": 164,
+    "title": "Prof.",
+    "isbn": "D5Oki0HEPG",
+    "author": "1rwNlm5CKX",
+    "category": "Xrz8yseGBD",
+    "on_shelf_time": "2018-10-29",
+    "price": 918.219970703125
+  },
+  {
+    "id": 165,
+    "title": "Miss.",
+    "isbn": "rbjQqSZx9P",
+    "author": "fO7AXAWUrF",
+    "category": "f4y4oIKJQK",
+    "on_shelf_time": "2019-8-14",
+    "price": 662.260009765625
+  },
+  {
+    "id": 166,
+    "title": "Prof.",
+    "isbn": "IpRAprUkYv",
+    "author": "j8R9PMJCbI",
+    "category": "ch2R7uWaIi",
+    "on_shelf_time": "2006-11-5",
+    "price": 648.5700073242188
+  },
+  {
+    "id": 167,
+    "title": "Mr.",
+    "isbn": "ZxwOg9KeQB",
+    "author": "rZxEux9rHr",
+    "category": "RxsrqBSizO",
+    "on_shelf_time": "2004-9-14",
+    "price": 288.95001220703127
+  },
+  {
+    "id": 168,
+    "title": "Miss.",
+    "isbn": "Z2JYbB30Yi",
+    "author": "cYNmhttJiP",
+    "category": "Qz0Eg3xmo4",
+    "on_shelf_time": "2009-8-7",
+    "price": 706.9299926757813
+  },
+  {
+    "id": 169,
+    "title": "Miss.",
+    "isbn": "MDsJwE9qDm",
+    "author": "rDTZjkj1PD",
+    "category": "5pMAQd1XcK",
+    "on_shelf_time": "2017-12-8",
+    "price": 643.030029296875
+  },
+  {
+    "id": 170,
+    "title": "Miss.",
+    "isbn": "iAK2Pj1yIG",
+    "author": "b3OPdHFlon",
+    "category": "Tg4pEkgVCL",
+    "on_shelf_time": "2020-9-15",
+    "price": 638.9600219726563
+  },
+  {
+    "id": 171,
+    "title": "Mr.",
+    "isbn": "tZ3UQi0FZZ",
+    "author": "8hRA6hWUKt",
+    "category": "47NtplQ46N",
+    "on_shelf_time": "2004-10-16",
+    "price": 352.79998779296877
+  },
+  {
+    "id": 172,
+    "title": "Miss.",
+    "isbn": "EaEC4Z8Quo",
+    "author": "OHys9L4rE1",
+    "category": "ZLnTdT8UG5",
+    "on_shelf_time": "2015-7-6",
+    "price": 665.5599975585938
+  },
+  {
+    "id": 173,
+    "title": "Mr.",
+    "isbn": "jStOX8Lfgm",
+    "author": "WyZzbdYfOV",
+    "category": "VnP1TsJatB",
+    "on_shelf_time": "2001-10-5",
+    "price": 665.719970703125
+  },
+  {
+    "id": 174,
+    "title": "Prof.",
+    "isbn": "XCeCwreyVe",
+    "author": "t8L5L7Bq3h",
+    "category": "GJpRmG0avx",
+    "on_shelf_time": "2010-4-15",
+    "price": 489.739990234375
+  },
+  {
+    "id": 175,
+    "title": "Prof.",
+    "isbn": "rrQJ5leSql",
+    "author": "I0dYa6OgrS",
+    "category": "57fygWxpN8",
+    "on_shelf_time": "2004-10-1",
+    "price": 908.4500122070313
+  },
+  {
+    "id": 176,
+    "title": "Miss.",
+    "isbn": "77lb5fnEz6",
+    "author": "WEdiXYZBX1",
+    "category": "Js3NqbfMUe",
+    "on_shelf_time": "2020-1-31",
+    "price": 491.3900146484375
+  },
+  {
+    "id": 177,
+    "title": "Miss.",
+    "isbn": "gKBOGiSeuM",
+    "author": "mEtGYxSg7o",
+    "category": "tRx58VIIFf",
+    "on_shelf_time": "2007-4-19",
+    "price": 677.52001953125
+  },
+  {
+    "id": 178,
+    "title": "Prof.",
+    "isbn": "5I4DwucJ4s",
+    "author": "ML312nP6ym",
+    "category": "I0ofPYOmu2",
+    "on_shelf_time": "2007-4-26",
+    "price": 652.1699829101563
+  },
+  {
+    "id": 179,
+    "title": "Ms.",
+    "isbn": "zr1tjNZN6x",
+    "author": "FbngHO5Yi2",
+    "category": "Ux34S5PkPc",
+    "on_shelf_time": "2007-10-18",
+    "price": 217.74000549316407
+  },
+  {
+    "id": 180,
+    "title": "Prof.",
+    "isbn": "R4WEij9kVw",
+    "author": "WMSUZs6zMh",
+    "category": "JKpRqYKfUO",
+    "on_shelf_time": "2005-7-10",
+    "price": 685.4000244140625
+  },
+  {
+    "id": 181,
+    "title": "Miss.",
+    "isbn": "bykA2OsKWp",
+    "author": "zVFftPHS6A",
+    "category": "O61kJKlhhI",
+    "on_shelf_time": "2014-7-17",
+    "price": 666.27001953125
+  },
+  {
+    "id": 182,
+    "title": "Ms.",
+    "isbn": "v7HmQgjG3n",
+    "author": "QTklLMCVck",
+    "category": "WI8EZ1YOlt",
+    "on_shelf_time": "2018-9-13",
+    "price": 127.02999877929688
+  },
+  {
+    "id": 183,
+    "title": "Mrs.",
+    "isbn": "eJHygnFBqJ",
+    "author": "0gfqNW1lIq",
+    "category": "zeWLDFBLmY",
+    "on_shelf_time": "2022-1-27",
+    "price": 566.72998046875
+  },
+  {
+    "id": 184,
+    "title": "Mrs.",
+    "isbn": "eAq7LZ8daU",
+    "author": "j1wm10F0mr",
+    "category": "7JOgdGc28z",
+    "on_shelf_time": "2006-12-5",
+    "price": 24.84000015258789
+  },
+  {
+    "id": 185,
+    "title": "Miss.",
+    "isbn": "OkvVG5rcMh",
+    "author": "0a5n1V47Lh",
+    "category": "6Gn891d1o5",
+    "on_shelf_time": "2018-4-30",
+    "price": 16.18000030517578
+  },
+  {
+    "id": 186,
+    "title": "Miss.",
+    "isbn": "Uyqzp8rNv2",
+    "author": "vqLkNbQVeS",
+    "category": "fHIRep5rC7",
+    "on_shelf_time": "2010-3-9",
+    "price": 842.9199829101563
+  },
+  {
+    "id": 187,
+    "title": "Mrs.",
+    "isbn": "5gmuh3HNjK",
+    "author": "xm7wO7wskx",
+    "category": "vs4FAalzuR",
+    "on_shelf_time": "2017-9-25",
+    "price": 723.3599853515625
+  },
+  {
+    "id": 188,
+    "title": "Miss.",
+    "isbn": "Dw8Nojfv16",
+    "author": "ro2GABRwEu",
+    "category": "z6ar1dO6qG",
+    "on_shelf_time": "2004-7-9",
+    "price": 490.5
+  },
+  {
+    "id": 189,
+    "title": "Mr.",
+    "isbn": "TwGdQImHaW",
+    "author": "0Cz22nUzhb",
+    "category": "tQtNEQnHD0",
+    "on_shelf_time": "2005-8-18",
+    "price": 187.3800048828125
+  },
+  {
+    "id": 190,
+    "title": "Miss.",
+    "isbn": "x1M8PZKvsP",
+    "author": "k1GE5XmcJT",
+    "category": "rMrLRvQnP4",
+    "on_shelf_time": "2021-12-1",
+    "price": 363.29998779296877
+  },
+  {
+    "id": 191,
+    "title": "Mrs.",
+    "isbn": "eJ65BWw4zy",
+    "author": "WThddQcZeb",
+    "category": "MpZJvmpqqv",
+    "on_shelf_time": "2023-8-29",
+    "price": 26.729999542236329
+  },
+  {
+    "id": 192,
+    "title": "Miss.",
+    "isbn": "5RsQn152jA",
+    "author": "rrQZdrqvqc",
+    "category": "yoEwms4ikI",
+    "on_shelf_time": "2020-7-17",
+    "price": 895.530029296875
+  },
+  {
+    "id": 193,
+    "title": "Prof.",
+    "isbn": "q1EYZV33mZ",
+    "author": "49d4vdbyf7",
+    "category": "AqQjtAeqTY",
+    "on_shelf_time": "2021-12-23",
+    "price": 280.2200012207031
+  },
+  {
+    "id": 194,
+    "title": "Mrs.",
+    "isbn": "bnpJZBTtjH",
+    "author": "8KeHt6pV1k",
+    "category": "u4HxSpWHYw",
+    "on_shelf_time": "2008-9-17",
+    "price": 153.1300048828125
+  },
+  {
+    "id": 195,
+    "title": "Miss.",
+    "isbn": "hWusfE1NJi",
+    "author": "lOfBJlUXOx",
+    "category": "213YtaNyZL",
+    "on_shelf_time": "2015-8-28",
+    "price": 957.5
+  },
+  {
+    "id": 196,
+    "title": "Prof.",
+    "isbn": "WszwnxQSU5",
+    "author": "q6YDrW4JYn",
+    "category": "qjThGPcCXW",
+    "on_shelf_time": "2023-8-15",
+    "price": 592.2100219726563
+  },
+  {
+    "id": 197,
+    "title": "Prof.",
+    "isbn": "s6dKvW8ebD",
+    "author": "y2aYsvST1y",
+    "category": "OtyYIjADYn",
+    "on_shelf_time": "2017-5-11",
+    "price": 627.4299926757813
+  },
+  {
+    "id": 198,
+    "title": "Miss.",
+    "isbn": "oTX9kEqwVJ",
+    "author": "5wx1tgJE4O",
+    "category": "TdgRIhJgYa",
+    "on_shelf_time": "2012-10-8",
+    "price": 788.489990234375
+  },
+  {
+    "id": 199,
+    "title": "Mrs.",
+    "isbn": "0w27HiufD7",
+    "author": "all797dNXn",
+    "category": "rPgS8B3mDO",
+    "on_shelf_time": "2000-2-17",
+    "price": 87.70999908447266
+  },
+  {
+    "id": 200,
+    "title": "Mrs.",
+    "isbn": "Ht9geh73sy",
+    "author": "jn2Pj0vIVw",
+    "category": "0HtSciw6UG",
+    "on_shelf_time": "2020-8-20",
+    "price": 521.530029296875
+  },
+  {
+    "id": 201,
+    "title": "Prof.",
+    "isbn": "2EDkuwevtb",
+    "author": "Wrojvqg6Sm",
+    "category": "3p1AoTiq7L",
+    "on_shelf_time": "2020-6-9",
+    "price": 857.4000244140625
+  },
+  {
+    "id": 202,
+    "title": "Prof.",
+    "isbn": "IVhJUi8P0V",
+    "author": "AP13y2BlHI",
+    "category": "dlrfWMiiac",
+    "on_shelf_time": "2015-10-19",
+    "price": 527.0800170898438
+  },
+  {
+    "id": 203,
+    "title": "Mrs.",
+    "isbn": "VXrGgoJZSK",
+    "author": "II7QoiwIuJ",
+    "category": "IJX3HfEYPR",
+    "on_shelf_time": "2000-3-25",
+    "price": 957.719970703125
+  },
+  {
+    "id": 204,
+    "title": "Mrs.",
+    "isbn": "epAwcHJhYj",
+    "author": "GNg8Tgv6Lw",
+    "category": "Ftkk4ZvuGy",
+    "on_shelf_time": "2011-4-19",
+    "price": 645.489990234375
+  },
+  {
+    "id": 205,
+    "title": "Ms.",
+    "isbn": "ENrkSPBNJU",
+    "author": "mZ4VIw9Wtn",
+    "category": "URuqRvwTLN",
+    "on_shelf_time": "2019-5-5",
+    "price": 624.3099975585938
+  },
+  {
+    "id": 206,
+    "title": "Ms.",
+    "isbn": "qdfWbnRCJ8",
+    "author": "5OWyLMw1qg",
+    "category": "rQlWyJMiri",
+    "on_shelf_time": "2013-7-21",
+    "price": 256.29998779296877
+  },
+  {
+    "id": 207,
+    "title": "Prof.",
+    "isbn": "NWcKhOaVxz",
+    "author": "K9qihEIQL8",
+    "category": "c8rouYWpSt",
+    "on_shelf_time": "2005-10-11",
+    "price": 950.02001953125
+  },
+  {
+    "id": 208,
+    "title": "Mrs.",
+    "isbn": "JokC1RQEKI",
+    "author": "RCqL1J5X7J",
+    "category": "pw9A2jWta0",
+    "on_shelf_time": "2001-2-14",
+    "price": 283.8699951171875
+  },
+  {
+    "id": 209,
+    "title": "Mrs.",
+    "isbn": "flzrIAAgxg",
+    "author": "HnMT4yjTvR",
+    "category": "693BOONE3Z",
+    "on_shelf_time": "2023-10-23",
+    "price": 529.510009765625
+  },
+  {
+    "id": 210,
+    "title": "Prof.",
+    "isbn": "2R8YV0J0Ob",
+    "author": "x5vacZ0sCR",
+    "category": "nBzOMpFBwo",
+    "on_shelf_time": "2017-4-23",
+    "price": 40.43000030517578
+  },
+  {
+    "id": 211,
+    "title": "Mr.",
+    "isbn": "sMoLepBm6A",
+    "author": "6DwJGYjTZ8",
+    "category": "koJXBnSv6M",
+    "on_shelf_time": "2009-3-21",
+    "price": 441.9100036621094
+  },
+  {
+    "id": 212,
+    "title": "Mr.",
+    "isbn": "5goS1YYyw0",
+    "author": "Q2E9Jh0XmP",
+    "category": "57Y9iuul7j",
+    "on_shelf_time": "2010-10-2",
+    "price": 15.880000114440918
+  },
+  {
+    "id": 213,
+    "title": "Mrs.",
+    "isbn": "K1lPVvApkE",
+    "author": "v7HPZCwE90",
+    "category": "9UTjR0C7H3",
+    "on_shelf_time": "2017-12-11",
+    "price": 267.9100036621094
+  },
+  {
+    "id": 214,
+    "title": "Ms.",
+    "isbn": "CF3NwklntF",
+    "author": "YCoTQcaxLI",
+    "category": "p7XL9UHqU8",
+    "on_shelf_time": "2006-9-17",
+    "price": 189.00999450683595
+  },
+  {
+    "id": 215,
+    "title": "Mrs.",
+    "isbn": "o4doikxE3d",
+    "author": "iNvmVOMaSI",
+    "category": "Je19myanmp",
+    "on_shelf_time": "2003-5-13",
+    "price": 442.510009765625
+  },
+  {
+    "id": 216,
+    "title": "Mrs.",
+    "isbn": "0LMY9sBn6b",
+    "author": "nnTzRviQKF",
+    "category": "yQT3no11sz",
+    "on_shelf_time": "2023-5-10",
+    "price": 859.77001953125
+  },
+  {
+    "id": 217,
+    "title": "Miss.",
+    "isbn": "6TzHzhYBhj",
+    "author": "qwylDhHjJn",
+    "category": "RqVy2BU0us",
+    "on_shelf_time": "2020-9-9",
+    "price": 289.8500061035156
+  },
+  {
+    "id": 218,
+    "title": "Ms.",
+    "isbn": "lZ4oBJBGf5",
+    "author": "ZdRqBQVdvy",
+    "category": "4R1bKhLcFJ",
+    "on_shelf_time": "2013-9-17",
+    "price": 335.44000244140627
+  },
+  {
+    "id": 219,
+    "title": "Miss.",
+    "isbn": "uqYCXBwJHr",
+    "author": "zkCMH0Dr2C",
+    "category": "xCRJtzYk3v",
+    "on_shelf_time": "2023-8-18",
+    "price": 523.4400024414063
+  },
+  {
+    "id": 220,
+    "title": "Miss.",
+    "isbn": "PK6tDAhMKc",
+    "author": "4E6hq7MP2G",
+    "category": "6ZwlH5w5Mm",
+    "on_shelf_time": "2009-3-19",
+    "price": 102.37000274658203
+  },
+  {
+    "id": 221,
+    "title": "Mrs.",
+    "isbn": "qzjdxpHb9y",
+    "author": "RKgFHM7Q1y",
+    "category": "lZIXfEs2tC",
+    "on_shelf_time": "2017-6-25",
+    "price": 738.25
+  },
+  {
+    "id": 222,
+    "title": "Ms.",
+    "isbn": "w6kYdGyRUL",
+    "author": "lp01RvpeqY",
+    "category": "DmJKGdykX8",
+    "on_shelf_time": "2004-6-16",
+    "price": 149.36000061035157
+  },
+  {
+    "id": 223,
+    "title": "Prof.",
+    "isbn": "aApZKwwB81",
+    "author": "HpkjylpAdK",
+    "category": "lOp0k0oiI5",
+    "on_shelf_time": "2011-7-9",
+    "price": 686.4299926757813
+  },
+  {
+    "id": 224,
+    "title": "Ms.",
+    "isbn": "0iQU8mzDAl",
+    "author": "iJsB1Mb483",
+    "category": "QoY0iPBDZz",
+    "on_shelf_time": "2019-10-18",
+    "price": 585.6900024414063
+  },
+  {
+    "id": 225,
+    "title": "Miss.",
+    "isbn": "8i7BtDj2JY",
+    "author": "tNM4TxHI8i",
+    "category": "yOjKnVqoRu",
+    "on_shelf_time": "2017-8-31",
+    "price": 296.0199890136719
+  },
+  {
+    "id": 226,
+    "title": "Ms.",
+    "isbn": "Eo0IX7X2iF",
+    "author": "PtVcMgUVIz",
+    "category": "tjkSeww0VS",
+    "on_shelf_time": "2019-8-16",
+    "price": 809.1799926757813
+  },
+  {
+    "id": 227,
+    "title": "Prof.",
+    "isbn": "oasihs0ZZF",
+    "author": "JBsqSFGqBR",
+    "category": "ShN38F874r",
+    "on_shelf_time": "2006-9-29",
+    "price": 377.3699951171875
+  },
+  {
+    "id": 228,
+    "title": "Mr.",
+    "isbn": "I8CNRaXs5C",
+    "author": "k0LGWNefLp",
+    "category": "gDS9sKGPMK",
+    "on_shelf_time": "2002-5-25",
+    "price": 220.4199981689453
+  },
+  {
+    "id": 229,
+    "title": "Prof.",
+    "isbn": "9GpTLUFYqz",
+    "author": "ZECca7P3Jf",
+    "category": "CJbTa9TxPk",
+    "on_shelf_time": "2006-3-9",
+    "price": 270.6499938964844
+  },
+  {
+    "id": 230,
+    "title": "Prof.",
+    "isbn": "yW8Mh4PJM0",
+    "author": "BA2Z4PuU8c",
+    "category": "L9zDIfueSi",
+    "on_shelf_time": "2011-2-14",
+    "price": 479.8500061035156
+  }
+]
